@@ -1,4 +1,4 @@
- - 👋 Hi, my name is Baptiste. I'm a Android Developer
+ - 👋 Hi, my name is Baptiste. I'm an Android Developer
  - 🎯 My goal here is to show differents features of Android and what can be done in Native development
  - 📓 This github page act as my portfolio 
 
